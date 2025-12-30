@@ -3,13 +3,19 @@
 ![Demo](images/demo.png)
 
 
+```code
 ┌────────────────────────────────────────────────────┐
 │                                                    │
-│            ¯\_(ツ)_/¯                              │
 │                                                    │
-│   Yes... this is overengineering... but hey...     │
+│   Yes... this is overengineering...                │
+│   but hey...                                       │
+│                  ¯\_(ツ)_/¯                        │
 │                                                    │
 └────────────────────────────────────────────────────┘
+```
+
+
+
 
 A terminal application designed for decoding hex byte sequences found in terminal windows from **[The Talos Principle](https://store.steampowered.com/app/257510/The_Talos_Principle/)** game. Talos Decoder automatically detects and converts hexadecimal byte sequences (like `48 65 6C 6C 6F`) into their UTF-8 decoded text representation (like `Hello`), while preserving the original text structure.
 
